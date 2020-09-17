@@ -1,0 +1,49 @@
+/*nav div {
+	border: 1px solid black;
+}*/
+
+nav {
+	background-color: #808080;
+}
+
+.myNavList {
+	justify-content: flex-end;
+	margin-right: 0px;
+}
+
+.form-inline {
+	width: 100%;
+	justify-content: center;
+}
+
+.form-control {
+	width:50%!important;
+}
+
+.myButton {
+	display: flex;
+  	align-items: center;
+  	height: 38px;
+}
+
+.navbar-light .navbar-toggler {
+	border: #808080;
+}
+
+.container {
+	background-color: #bfbfbf;
+	text-align: center;
+	color: #808080;
+}
+
+.side {
+	position: fixed;
+	right: 0;
+	bottom: 0;
+	background-color: #bfbfbf;
+	padding: 8px 0px 0px 8px;
+}
+
+footer {
+	background-color: #808080;
+}
